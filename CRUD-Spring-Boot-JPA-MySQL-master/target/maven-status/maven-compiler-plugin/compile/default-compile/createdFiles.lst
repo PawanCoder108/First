@@ -1,0 +1,7 @@
+com\bookstore\dao\IBookStoreDAO.class
+com\bookstore\entity\Book.class
+com\bookstore\services\IBookStoreService.class
+com\bookstore\services\BookStoreService.class
+com\bookstore\controller\BookStoreController.class
+com\bookstore\dao\BookStoreDAO.class
+com\bookstore\Application.class

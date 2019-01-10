@@ -1,0 +1,7 @@
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\controller\BookStoreController.java
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\entity\Book.java
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\Application.java
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\dao\IBookStoreDAO.java
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\dao\BookStoreDAO.java
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\services\IBookStoreService.java
+F:\Test\CRUD-Spring-Boot-JPA-MySQL-master\src\main\java\com\bookstore\services\BookStoreService.java
